@@ -2,55 +2,55 @@
   {
     "id": "g1",
     "src": "/gallery/garden-pond.jpg",
-    "caption": "A mature garden pond framed by stone and greenery",
-    "credit": "Member garden inspiration"
+    "caption": "A mature botanical garden pond with colorful koi",
+    "credit": "Inspiration for member gardens"
   },
   {
     "id": "g2",
     "src": "/gallery/koi-orange.jpg",
-    "caption": "Exotic koi gliding beneath clear water",
-    "credit": "Member pond"
+    "caption": "Exotic koi swimming in tranquil water",
+    "credit": "Member pond inspiration"
   },
   {
     "id": "g3",
     "src": "/gallery/lotus-bloom.jpg",
-    "caption": "Lotus in full bloom at the water’s edge",
+    "caption": "Lotus blooms rising from the water’s surface",
     "credit": "Past society tour stop"
   },
   {
     "id": "g4",
     "src": "/gallery/pond-waterfall.jpg",
-    "caption": "A cascading waterfall through lush planting",
+    "caption": "Leaves and flowing water along a planted stream",
     "credit": "Member garden, NW OKC"
   },
   {
     "id": "g5",
     "src": "/gallery/exotic-plants.jpg",
-    "caption": "Exotic foliage softening the pond margin",
+    "caption": "Exotic plants trailing over the water’s edge",
     "credit": "Member garden"
   },
   {
     "id": "g6",
     "src": "/gallery/koi-school.jpg",
-    "caption": "A school of colorful ornamental koi",
+    "caption": "A school of ornamental koi in clear pond water",
     "credit": "Past society tour stop"
   },
   {
     "id": "g7",
     "src": "/gallery/water-lilies.jpg",
-    "caption": "Water lilies opening across still water",
+    "caption": "Water lilies opening across a still pond",
     "credit": "Member garden"
   },
   {
     "id": "g8",
     "src": "/gallery/lush-edge.jpg",
-    "caption": "Lush vegetation wrapping a established pond",
+    "caption": "Vibrant koi beneath lush pond planting",
     "credit": "Past society tour stop"
   },
   {
     "id": "g9",
     "src": "/gallery/stone-pond.jpg",
-    "caption": "Stonework and plantings around a mature water feature",
+    "caption": "A serene established pond with colorful koi",
     "credit": "Member garden, Oklahoma City"
   }
 ]
