@@ -7,14 +7,14 @@ export function Gallery() {
     <>
       <PageMeta
         title="Gallery"
-        description="Photos from member ponds and past Water Garden Society tours around Oklahoma City."
+        description="Photos of mature ponds, exotic koi, and lush water plants from Water Garden Society members and past tours around Oklahoma City."
       />
       <section className="page-hero">
         <div className="page-hero__inner">
           <h1>Member ponds &amp; past tours</h1>
           <p>
-            A glimpse of the water gardens our community builds and visits
-            together.
+            Mature ponds, exotic koi, and the lush plants that make a water
+            garden feel alive—glimpses from our community and past tours.
           </p>
         </div>
       </section>

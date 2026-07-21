@@ -14,7 +14,18 @@ export function Home() {
         description="Oklahoma City water garden community for monthly meetings, pond tours, and instructional classes—helping each other create the ponds we imagine."
       />
       <section className="hero">
-        <div className="hero__media" aria-hidden="true" />
+        <div className="hero__media" aria-hidden="true">
+          <video
+            className="hero__video"
+            autoPlay
+            muted
+            loop
+            playsInline
+            poster="/images/hero-pond-poster.jpg"
+          >
+            <source src="/images/hero-pond.mp4" type="video/mp4" />
+          </video>
+        </div>
         <div className="hero__content">
           <p className="hero__brand animate-rise">Water Garden Society</p>
           <h1 className="hero__headline animate-rise animate-rise--delay-1">

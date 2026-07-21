@@ -1,38 +1,56 @@
 [
   {
     "id": "g1",
-    "src": "/gallery/pond-lilies.jpg",
-    "caption": "Water lilies opening on a quiet morning",
-    "credit": "Member garden, Oklahoma City"
+    "src": "/gallery/garden-pond.jpg",
+    "caption": "A mature garden pond framed by stone and greenery",
+    "credit": "Member garden inspiration"
   },
   {
     "id": "g2",
-    "src": "/gallery/pond-path.jpg",
-    "caption": "A stone path leading to the water’s edge",
-    "credit": "Past society tour stop"
+    "src": "/gallery/koi-orange.jpg",
+    "caption": "Exotic koi gliding beneath clear water",
+    "credit": "Member pond"
   },
   {
     "id": "g3",
-    "src": "/gallery/pond-waterfall.jpg",
-    "caption": "A small waterfall keeping the pond lively",
-    "credit": "Member garden, NW OKC"
-  },
-  {
-    "id": "g4",
-    "src": "/gallery/pond-evening.jpg",
-    "caption": "Evening light across still water",
-    "credit": "Member garden"
-  },
-  {
-    "id": "g5",
-    "src": "/gallery/pond-plants.jpg",
-    "caption": "Marginal plants framing a backyard pond",
+    "src": "/gallery/lotus-bloom.jpg",
+    "caption": "Lotus in full bloom at the water’s edge",
     "credit": "Past society tour stop"
   },
   {
-    "id": "g6",
-    "src": "/gallery/pond-koi.jpg",
-    "caption": "Koi under the shade of floating plants",
+    "id": "g4",
+    "src": "/gallery/pond-waterfall.jpg",
+    "caption": "A cascading waterfall through lush planting",
+    "credit": "Member garden, NW OKC"
+  },
+  {
+    "id": "g5",
+    "src": "/gallery/exotic-plants.jpg",
+    "caption": "Exotic foliage softening the pond margin",
     "credit": "Member garden"
+  },
+  {
+    "id": "g6",
+    "src": "/gallery/koi-school.jpg",
+    "caption": "A school of colorful ornamental koi",
+    "credit": "Past society tour stop"
+  },
+  {
+    "id": "g7",
+    "src": "/gallery/water-lilies.jpg",
+    "caption": "Water lilies opening across still water",
+    "credit": "Member garden"
+  },
+  {
+    "id": "g8",
+    "src": "/gallery/lush-edge.jpg",
+    "caption": "Lush vegetation wrapping a established pond",
+    "credit": "Past society tour stop"
+  },
+  {
+    "id": "g9",
+    "src": "/gallery/stone-pond.jpg",
+    "caption": "Stonework and plantings around a mature water feature",
+    "credit": "Member garden, Oklahoma City"
   }
 ]
