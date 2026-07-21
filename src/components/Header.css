@@ -1,0 +1,113 @@
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: color-mix(in srgb, var(--color-deep) 88%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid color-mix(in srgb, var(--color-foam) 12%, transparent);
+}
+
+.site-header__inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0.85rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.site-header__brand {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--color-foam);
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.site-header__brand:hover {
+  color: var(--color-sky);
+}
+
+.site-header__nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.15rem 1.1rem;
+}
+
+.site-header__link {
+  position: relative;
+  color: color-mix(in srgb, var(--color-foam) 82%, transparent);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 500;
+  padding: 0.2rem 0;
+  transition: color 0.2s ease;
+}
+
+.site-header__link::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background: var(--color-lily);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.25s ease;
+}
+
+.site-header__link:hover,
+.site-header__link.is-active {
+  color: var(--color-foam);
+}
+
+.site-header__link:hover::after,
+.site-header__link.is-active::after {
+  transform: scaleX(1);
+}
+
+.site-header__toggle {
+  display: none;
+  background: transparent;
+  border: 1px solid color-mix(in srgb, var(--color-foam) 25%, transparent);
+  color: var(--color-foam);
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 860px) {
+  .site-header__toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .site-header__nav {
+    display: none;
+    position: fixed;
+    inset: 3.4rem 0 0;
+    background: var(--color-deep);
+    flex-direction: column;
+    align-items: stretch;
+    padding: 1.5rem 1.25rem 2rem;
+    gap: 0.35rem;
+  }
+
+  .site-header__nav.is-open {
+    display: flex;
+  }
+
+  .site-header__link {
+    font-size: 1.15rem;
+    padding: 0.65rem 0;
+    border-bottom: 1px solid color-mix(in srgb, var(--color-foam) 10%, transparent);
+  }
+}

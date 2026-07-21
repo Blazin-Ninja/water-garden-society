@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g1",
+    "src": "/gallery/pond-lilies.jpg",
+    "caption": "Water lilies opening on a quiet morning",
+    "credit": "Member garden, Oklahoma City"
+  },
+  {
+    "id": "g2",
+    "src": "/gallery/pond-path.jpg",
+    "caption": "A stone path leading to the water’s edge",
+    "credit": "Past society tour stop"
+  },
+  {
+    "id": "g3",
+    "src": "/gallery/pond-waterfall.jpg",
+    "caption": "A small waterfall keeping the pond lively",
+    "credit": "Member garden, NW OKC"
+  },
+  {
+    "id": "g4",
+    "src": "/gallery/pond-evening.jpg",
+    "caption": "Evening light across still water",
+    "credit": "Member garden"
+  },
+  {
+    "id": "g5",
+    "src": "/gallery/pond-plants.jpg",
+    "caption": "Marginal plants framing a backyard pond",
+    "credit": "Past society tour stop"
+  },
+  {
+    "id": "g6",
+    "src": "/gallery/pond-koi.jpg",
+    "caption": "Koi under the shade of floating plants",
+    "credit": "Member garden"
+  }
+]

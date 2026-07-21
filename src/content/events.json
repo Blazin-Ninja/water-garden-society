@@ -1,0 +1,74 @@
+[
+  {
+    "id": "meeting-2026-08",
+    "title": "August Monthly Meeting",
+    "type": "meeting",
+    "date": "2026-08-12",
+    "time": "7:00 PM",
+    "location": "Lakeview Nazarene, 3500 N.W. 50th St., Oklahoma City, OK 73112",
+    "summary": "Share summer pond updates, ask questions, and plan the fall tour season together."
+  },
+  {
+    "id": "class-2026-08",
+    "title": "Water Quality Basics",
+    "type": "class",
+    "date": "2026-08-23",
+    "time": "10:00 AM",
+    "location": "Lakeview Nazarene, 3500 N.W. 50th St., Oklahoma City, OK 73112",
+    "summary": "Learn how to balance clear water, healthy plants, and happy fish without overcomplicating your pond."
+  },
+  {
+    "id": "tour-2026-09",
+    "title": "Northwest Oklahoma City Pond Tour",
+    "type": "tour",
+    "date": "2026-09-13",
+    "time": "1:00 PM – 5:00 PM",
+    "location": "Multiple member ponds around NW OKC",
+    "summary": "Visit member gardens across town—see what neighbors have built and gather ideas for your own water feature."
+  },
+  {
+    "id": "meeting-2026-09",
+    "title": "September Monthly Meeting",
+    "type": "meeting",
+    "date": "2026-09-09",
+    "time": "7:00 PM",
+    "location": "Lakeview Nazarene, 3500 N.W. 50th St., Oklahoma City, OK 73112",
+    "summary": "Fall prep tips, plant division, and tour debrief. Newcomers always welcome."
+  },
+  {
+    "id": "class-2026-10",
+    "title": "Building Your First Pond",
+    "type": "class",
+    "date": "2026-10-04",
+    "time": "10:00 AM",
+    "location": "Lakeview Nazarene, 3500 N.W. 50th St., Oklahoma City, OK 73112",
+    "summary": "From liner and pumps to planting shelves—walk through a practical starter build with experienced members."
+  },
+  {
+    "id": "meeting-2026-10",
+    "title": "October Monthly Meeting",
+    "type": "meeting",
+    "date": "2026-10-14",
+    "time": "7:00 PM",
+    "location": "Lakeview Nazarene, 3500 N.W. 50th St., Oklahoma City, OK 73112",
+    "summary": "Winterizing talk and open Q&A. Bring photos of your pond to share."
+  },
+  {
+    "id": "tour-2026-06",
+    "title": "Early Summer Pond Tour",
+    "type": "tour",
+    "date": "2026-06-14",
+    "time": "1:00 PM – 5:00 PM",
+    "location": "Member ponds around Oklahoma City",
+    "summary": "A relaxed afternoon touring blooming water gardens and meeting fellow pond keepers."
+  },
+  {
+    "id": "meeting-2026-07",
+    "title": "July Monthly Meeting",
+    "type": "meeting",
+    "date": "2026-07-08",
+    "time": "7:00 PM",
+    "location": "Lakeview Nazarene, 3500 N.W. 50th St., Oklahoma City, OK 73112",
+    "summary": "Midsummer check-in: algae, heat stress, and keeping fish comfortable in OKC weather."
+  }
+]
